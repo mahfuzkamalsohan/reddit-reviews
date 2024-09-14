@@ -11,8 +11,10 @@ import sys
 import config
 
 def main():
-    reddit = praw.Reddit(user_agent=True, client_id=config.client_id, client_secret=config.client_secret)
-
+    application_client_id = config.client_id
+    application_client_secret = config.client_secret
+    reddit = praw.Reddit(user_agent=True, client_id=application_client_id, client_secret= application_client_secret)
+    
     subreddit_name = input("SEARCH: ")
     try:
         post_count = int(input("NUMBER OF POSTS: "))
