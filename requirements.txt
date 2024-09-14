@@ -1,0 +1,10 @@
+praw
+selenium
+matplotlib
+seaborn
+pandas
+textblob
+pytest
+
+
+
