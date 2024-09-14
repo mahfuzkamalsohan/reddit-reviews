@@ -5,6 +5,3 @@ seaborn
 pandas
 textblob
 pytest
-
-
-
