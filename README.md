@@ -24,7 +24,7 @@ Analyze sentiment from Reddit comments to get an overall review of a specific se
 ## Get Started
 Get your own Reddit application ID and secret from Reddit. More on that [here](https://github.com/reddit-archive/reddit/wiki/OAuth2). Then, plug in the tokens at the top of reddit_reviews.py.
 
-1. Clone this reposity and install dependencies:
+1. Clone this repository and install dependencies:
 ```sh
 pip install -r requirements.txt
 ```
