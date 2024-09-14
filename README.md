@@ -22,7 +22,7 @@ Analyze sentiment from Reddit comments to get an overall review of a specific se
 - The data is visualized using the libraries [matplotlib](https://matplotlib.org) and [seaborn](https://seaborn.pydata.org).
 
 ## Get Started
-Get your own Reddit application ID and secret from Reddit. More on that [here](https://github.com/reddit-archive/reddit/wiki/OAuth2). Then, plug in the token at the top of project.py.
+Get your own Reddit application ID and secret from Reddit. More on that [here](https://github.com/reddit-archive/reddit/wiki/OAuth2). Then, plug in the tokens at the top of reddit_reviews.py.
 
 1. Clone this reposity and install dependencies:
 ```sh
